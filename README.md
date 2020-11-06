@@ -27,5 +27,9 @@ So far you should have done the following:
 
 - [ ] Created a new professional email address
 - [ ] Set up a bitwarden password vault using your new email
+- [ ] Installed or checked that it's already installed, Microsoft Visual Studio Code on your laptop
 
+## Next Steps
+
+There are a lot more things you need to do to get prepared.
 
