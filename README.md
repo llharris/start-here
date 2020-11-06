@@ -25,7 +25,7 @@ You should get an email to your b.c.sweet@outlook.com account saying `llharris i
 
 So far you should have done the following:
 
-- [] Created a new professional email address
-- [] Set up a bitwarden password vault using your new email
+- [ ] Created a new professional email address
+- [ ] Set up a bitwarden password vault using your new email
 
 
