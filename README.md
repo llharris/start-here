@@ -3,7 +3,7 @@ Start here Beth
 
 ## What now?
 
-Well done sweetheart. You've made it as far as setting up a github account :) This is just the beginning, but it's a good solid footing from which to continue. The rest of my instructions will be held here. This is the follow on step from the original email I sent you.
+Well done Beth. You've made it as far as setting up a github account :) This is just the beginning, but it's a good solid footing from which to continue. The rest of my instructions will be held here. This is the follow on step from the original email I sent you.
 
 There are a bunch of other things we need to get set up:
 
@@ -11,12 +11,21 @@ There are a bunch of other things we need to get set up:
 * Set you up with an Azure account
 * Set you up with access to various learning resources
 
-## Software
+## General IT Learning Tips
 
-There are some apps you need to install on both your laptop and your phone. You can install these on your current Dell XPS laptop until the new one arrives.
+Different approaches work for different people, but personally I find that trying to solve problems myself aids my learning and understanding. I was going to right detailed instructions which took you, step-by-step through the next things you need to do, but seeing how quickly you got through the first round of stuff, I think I can make it a bit harder for you :D
 
-### Laptop Software
+What I will do from now on is set you an objective with some pointers but I won't describe everything you need to do in sequence. You'll need to work that out yourself.
 
-* Visual Studio Code or VSCode: Google "vscode" and the first hit should be a link to code.visualstudio.com. There should be a download link, click on it and look for a download for Windows 10. There are various options, but click on the default big button that says "Windows 7, 8, 10". This will download the file "VSCodeUserSetup...exe" Run the downloaded file and just follow the instructions. Stick with the default options if you are unsure.
+## Github Collaborator Invite
 
-### More to follow...
+You should get an email to your b.c.sweet@outlook.com account saying `llharris invited you to llharris/start-here`. Click View Invitation which will take you to github.com, then accept the invitation. It'll take you back to this same page, but now you will have permission to collaborate on the content here with me. We'll cover that a bit later.
+
+## Recap
+
+So far you should have done the following:
+
+- [] Created a new professional email address
+- [] Set up a bitwarden password vault using your new email
+
+
