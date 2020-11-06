@@ -33,5 +33,12 @@ So far you should have done the following:
 
 There are a lot more things you need to do to get prepared, but the next task is going to happen here, kind of. 
 
-We are going to get you to edit the code of this web page to create your own task list for track the next few things you need to do!
+We are going to ask you to do two things to modify this web page...
 
+1. Change the code that generates this page to put ticks in those 3 boxes under the Recap heading above.
+2. Add your own sub-heading under Next Steps and then create a new task list for the following items:
+    - Learn some general computer basics.
+    - Learn basic information about how we keep data safe and secure.
+    - Learn basic ways that we access remote computers.
+
+On second thoughts this is too hard to write out instructions for so we will go through it together :)
