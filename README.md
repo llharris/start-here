@@ -31,5 +31,7 @@ So far you should have done the following:
 
 ## Next Steps
 
-There are a lot more things you need to do to get prepared.
+There are a lot more things you need to do to get prepared, but the next task is going to happen here, kind of. 
+
+We are going to get you to edit the code of this web page to create your own task list for track the next few things you need to do!
 
